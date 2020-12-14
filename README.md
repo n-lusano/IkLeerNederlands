@@ -14,9 +14,9 @@
 
 Yep, that's me. :point_up:
 
-Hello there! So my name is Nausicaa:sparkles:, and I recently graduated as Junior Full-stack Developer.
+Hello there! So my name is Nausicaa:sparkles:, and I "recently" moved to the Netherlands in February 2020, but because of this weird weird year of isolation it feels like a life ago and yesterday at the same time. Weird, huh. :mask: Back in July I also graduated as Junior Full-stack Developer, so maybe that contributed in keeping me distracted and busy while the year slipped away.
 
-This small WIP project is my portfolio, in which I plan to show a bit of what I can do. :grin:
+This small WIP project is more than a year's worth of notes as a self-taught Dutch learner, because I'm a huge language nerd, and I mean, because why not. :nerd_face:
 
 ###### _This project is work in progress. Some features still need to be implemented or revised. Any suggestions or feedback is welcome! Feel free to contact me at `n.lusano@gmail.com`_ :v:
 
