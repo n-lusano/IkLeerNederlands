@@ -1,5 +1,7 @@
 ###### _WIP_ :warning:
 
+# IkLeerNederlands :nerd_face:
+
 ## Table of contents
 
 - [About](#about)
@@ -8,13 +10,7 @@
 
 ### About
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/59041790/102146082-af176900-3e68-11eb-8b74-ef8e98a7f647.png">
-</p>
-
-Yep, that's me. :point_up:
-
-Hello there! So my name is Nausicaa:sparkles:, and I "recently" moved to the Netherlands in February 2020, but because of this weird weird year of isolation it feels like a life ago and yesterday at the same time. Weird, huh. :mask: Back in July I also graduated as Junior Full-stack Developer, so maybe that contributed in keeping me distracted and busy while the year slipped away.
+Hello there! So my name is Nausicaa:sparkles:, and I <s>"recently"</s> moved to the Netherlands in February 2020, but because of this weird weird year of isolation it feels like a life ago and yesterday at the same time. Weird, huh. :mask: Back in July I also graduated as Junior Full-stack Developer, so maybe that contributed in keeping me distracted and busy while the year slipped away.
 
 This small WIP project is more than a year's worth of notes as a self-taught Dutch learner, because I'm a huge language nerd, and I mean, because why not. :nerd_face:
 
