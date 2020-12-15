@@ -1,0 +1,9 @@
+.ionCard {
+  border-radius: 15px;
+}
+
+.centered {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
