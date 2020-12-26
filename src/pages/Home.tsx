@@ -13,7 +13,7 @@ import {
   IonToolbar,
 } from "@ionic/react";
 
-const Learn: React.FC = () => {
+const Info: React.FC = () => {
   return (
     <IonPage>
       <IonHeader>
@@ -53,4 +53,4 @@ const Learn: React.FC = () => {
   );
 };
 
-export default Learn;
+export default Info;
