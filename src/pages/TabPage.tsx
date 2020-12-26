@@ -1,3 +1,4 @@
+import React from "react";
 import {
   IonPage,
   IonHeader,
@@ -7,11 +8,13 @@ import {
   IonTitle,
   IonContent,
 } from "@ionic/react";
-import React from "react";
+import { pagesList } from "./TabPages";
 
 interface PageProps {
   pageName: string | undefined;
 }
+
+const pages = pagesList;
 
 const TabPage: React.FC<PageProps> = ({ pageName }) => {
   return (
@@ -24,7 +27,12 @@ const TabPage: React.FC<PageProps> = ({ pageName }) => {
           <IonTitle>{pageName}</IonTitle>
         </IonToolbar>
       </IonHeader>
-      <IonContent>Tab page content</IonContent>
+      {pages.map(
+        (page, index) =>
+          pageName === page.name && (
+            <IonContent key={index}>{page.content}</IonContent>
+          )
+      )}
     </IonPage>
   );
 };
